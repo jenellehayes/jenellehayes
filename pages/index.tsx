@@ -23,7 +23,7 @@ export default function Home() {
               Available to take on new projects early January 2023. If you are
               interested in working together, please{" "}
               <a
-                href="mail:contact@jenellehayes.com"
+                href="mailto:contact@jenellehayes.com"
                 className="font-medium italic"
               >
                 get in touch
@@ -36,31 +36,30 @@ export default function Home() {
                 Create <strong>visual identities</strong> and{" "}
                 <strong>brand standards</strong>, Build digital and{" "}
                 <strong>web designs</strong> made with the user experience and
-                best practices in mind. Formally trained in{" "}
-                <strong>print</strong> too! Experience with{" "}
-                <strong>editorial</strong> layouts, <strong>adverts</strong>,{" "}
-                <strong>signage</strong>, government and legal textbooks, and a{" "}
-                <strong>cookbook</strong>.
+                best practices in mind. <strong>Print</strong> too! Experience
+                with <strong>editorial</strong> layouts,{" "}
+                <strong>adverts</strong>, <strong>signage</strong>, government
+                and legal textbooks, and a <strong>cookbook</strong>.
               </p>
             </div>
           </div>
-        </div>
-        <div>
-          <h2>Work &amp; Projects</h2>
-          <p>
-            Nerder, Rundle College, Blakes, Miller Thomson, Calgary Counselling
-            Centre, and the Government of Alberta.
-          </p>
-          <h2>About</h2>
-          <p>
-            Born in <strong>Canada</strong>. I craft out of my homeland with
-            passion and care. I enjoy spending time outdoors - exploring nature,
-            attending the orchestra, and visiting an art gallery or a museum. I
-            care about the environment and am trying to limit my impact on it.
-            I've formally trained in new media production and design, as well as
-            print communications. I'm passionate about
-            <strong>photography</strong> too.
-          </p>
+          <div>
+            <h2>Work &amp; Projects</h2>
+            <p>
+              Nerder, Rundle College, Blakes, Miller Thomson, Calgary
+              Counselling Centre, and the Government of Alberta.
+            </p>
+            <h2>About</h2>
+            <p>
+              Born in <strong>Canada</strong>. I craft out of my homeland with
+              passion and care. I enjoy spending time outdoors - exploring
+              nature, attending the orchestra, and visiting an art gallery or a
+              museum. I care about the environment and am trying to limit my
+              impact on it. Formally trained in new media production and design,
+              as well as print communications. I&apos;m passionate about{" "}
+              <strong>photography</strong> too.
+            </p>
+          </div>
         </div>
       </main>
     </>
