@@ -12,12 +12,7 @@ export default function Home() {
           <p>
             Available to take on new projects early January 2023. If you are
             interested in working together, please{" "}
-            <a
-              href="mail:contact@jenellehayes.com"
-              className="font-medium italic"
-            >
-              get in touch
-            </a>
+            <a href = "mailto: hello@jenellehayes.com">get in touch</a>
             .
           </p>
           <div>
