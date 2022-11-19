@@ -44,22 +44,23 @@ export default function Home() {
               </p>
             </div>
           </div>
-          <div>
-            <h2>Work &amp; Projects</h2>
-            <p>
-              Nerder, Rundle College, Blakes, Miller Thomson, Calgary
-              Counselling Centre, and the Government of Alberta.
-            </p>
-            <h2>About</h2>
-            <p>
-              Born in <strong>Canada</strong>. I craft out of my homeland with
-              passion and care. I enjoy spending time outdoors - exploring
-              nature, attending the orchestra, and visiting an art gallery or a
-              museum. I care about the environment and am trying to limit my
-              impact on it. I’m passionate about <strong>photography</strong>{" "}
-              too.
-            </p>
-          </div>
+        </div>
+        <div>
+          <h2>Work &amp; Projects</h2>
+          <p>
+            Nerder, Rundle College, Blakes, Miller Thomson, Calgary Counselling
+            Centre, and the Government of Alberta.
+          </p>
+          <h2>About</h2>
+          <p>
+            Born in <strong>Canada</strong>. I craft out of my homeland with
+            passion and care. I enjoy spending time outdoors - exploring nature,
+            attending the orchestra, and visiting an art gallery or a museum. I
+            care about the environment and am trying to limit my impact on it.
+            I've formally trained in new media production and design, as well as
+            print communications. I'm passionate about
+            <strong>photography</strong> too.
+          </p>
         </div>
       </main>
     </>
