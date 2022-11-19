@@ -45,9 +45,7 @@ export default function Home() {
             passion and care. I enjoy spending time outdoors - exploring nature,
             attending the orchestra, and visiting an art gallery or a museum. I
             care about the environment and am trying to limit my impact on it.
-          </p>
-          <p>
-              I’m passionate about <strong>photography</strong> too.
+            I’m passionate about <strong>photography</strong> too.
           </p>
         </div>
       </div>
