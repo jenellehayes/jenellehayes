@@ -36,10 +36,10 @@ export default function Home() {
                 Create <strong>visual identities</strong> and{" "}
                 <strong>brand standards</strong>, Build digital and{" "}
                 <strong>web designs</strong> made with the user experience and
-                best practices in mind. <strong>Print</strong> too! Experience
-                with <strong>editorial</strong> layouts,{" "}
-                <strong>adverts</strong>, <strong>signage</strong>, government
-                and legal textbooks, and a <strong>cookbook</strong>.
+                best practices in mind. Formally trained in new media as well 
+                as<strong>print</strong>! Experience with <strong>editorial</strong> 
+                layouts,{" "} <strong>adverts</strong>, <strong>signage</strong>, 
+                government and legal textbooks, and a <strong>cookbook</strong>.
               </p>
             </div>
           </div>
