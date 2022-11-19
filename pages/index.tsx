@@ -56,7 +56,8 @@ export default function Home() {
               nature, attending the orchestra, and visiting an art gallery or a
               museum. I care about the environment and am trying to limit my
               impact on it. Formally trained in new media production and design,
-              as well as print communications.
+              as well as print communications. I&apos;m passionate about 
+              <strong>photography</strong> too.
             </p>
           </div>
         </div>
