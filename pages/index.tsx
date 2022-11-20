@@ -38,7 +38,7 @@ export default function Home() {
                 <strong>web designs</strong> made with the user experience and
                 best practices in mind. <strong>Print</strong> too! Experience with {" "} 
                 <strong>editorial</strong> layouts,{" "} <strong>adverts</strong>,{" "} 
-                <strong>signage</strong>, government and legal textbooks, and a{" "} 
+                <strong>signage</strong>, government and legal {" "}<strong>textbooks</strong>, and a{" "} 
                 <strong>cookbook</strong>.
               </p>
             </div>
@@ -51,7 +51,12 @@ export default function Home() {
             </p>
             <h2>About</h2>
             <p>
-              Born in <strong>Canada</strong>, I craft out of my homeland with passion and care. Spending time outdoors - exploring nature, attending the orchestra, and visiting an art gallery or a museum are things I enjoy doing. I care about the environment and am trying to limit my impact on it. My education has me formally trained in new media production and design, as well as print communications.
+              Born in <strong>Canada</strong>, I craft out of my homeland with passion 
+              and care. Spending time outdoors - exploring nature, attending the orchestra, 
+              and visiting an art gallery or a museum are things I enjoy doing. I care about 
+              the environment and am trying to limit my impact on it. My education has me 
+              formally trained in new media production and design, as well as 
+              print communications.
             </p>
           </div>
         </div>
