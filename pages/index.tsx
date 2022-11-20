@@ -55,7 +55,7 @@ export default function Home() {
               Born in <strong>Canada</strong>, I craft out of my homeland with
               passion and care. Spending time outdoors - exploring nature,
               attending the orchestra, and visiting an art gallery or a museum
-              are things I enjoy doing. I care about the environment and am
+              are all things I enjoy doing. I care about the environment and am
               trying to limit my impact on it. Formally trained in new media 
               production and design, as well as print communications.
             </p>
