@@ -10,8 +10,8 @@ export default function Home() {
           content="Available to take on new projects early January 2023."
         />
       </Head>
-      <main className="bg-primary text-white min-h-screen px-4 py-10 grid place-content-center">
-        <div className="grid md:grid-cols-2 md:gap-14 container font-thin">
+      <main className="bg-primary text-white min-h-screen px-4 sm:px-10 py-10 grid place-content-center">
+        <div className="grid md:grid-cols-2 md:gap-14 max-w-5xl font-thin">
           <div>
             <div className="mb-4">
               <h1 className="mb-0">
@@ -36,9 +36,10 @@ export default function Home() {
                 Create <strong>visual identities</strong> and{" "}
                 <strong>brand standards</strong>, Build digital and{" "}
                 <strong>web designs</strong> made with the user experience and
-                best practices in mind. <strong>Print</strong> too! Experience with {" "} 
-                <strong>editorial</strong> layouts,{" "} <strong>adverts</strong>,{" "} 
-                <strong>signage</strong>, government and legal {" "}<strong>textbooks</strong>, and a{" "} 
+                best practices in mind. <strong>Print</strong> too! Experience
+                with <strong>editorial</strong> layouts,{" "}
+                <strong>adverts</strong>, <strong>signage</strong>, government
+                and legal <strong>textbooks</strong>, and a{" "}
                 <strong>cookbook</strong>.
               </p>
             </div>
@@ -51,12 +52,13 @@ export default function Home() {
             </p>
             <h2>About</h2>
             <p>
-              Born in <strong>Canada</strong>, I craft out of my homeland with passion 
-              and care. Spending time outdoors - exploring nature, attending the orchestra, 
-              and visiting an art gallery or a museum are things I enjoy doing. I care about 
-              the environment and am trying to limit my impact on it. My education has me 
-              formally trained in new media production and design, as well as 
-              print communications.
+              Born in <strong>Canada</strong>, I craft out of my homeland with
+              passion and care. Spending time outdoors - exploring nature,
+              attending the orchestra, and visiting an art gallery or a museum
+              are things I enjoy doing. I care about the environment and am
+              trying to limit my impact on it. My education has me formally
+              trained in new media production and design, as well as print
+              communications.
             </p>
           </div>
         </div>
