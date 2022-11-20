@@ -38,7 +38,7 @@ export default function Home() {
                 <strong>web designs</strong> made with the user experience and
                 best practices in mind. <strong>Print</strong> too! Experience with 
                 <strong>editorial</strong> layouts,{" "} <strong>adverts</strong>, 
-                <strong>signage</strong>, government and legal textbooks, and a 
+                <strong>signage</strong>, government and legal textbooks, and a{" "} 
                 <strong>cookbook</strong>.
               </p>
             </div>
@@ -55,7 +55,7 @@ export default function Home() {
               passion and care. I enjoy spending time outdoors - exploring
               nature, attending the orchestra, and visiting an art gallery or a
               museum. I care about the environment and am trying to limit my
-              impact on it. Formally trained in new media production and design,
+              impact on it. Formally trained in new media production and design,{" "}
               as well as print communications. I&apos;m passionate about 
                <strong>photography</strong> too.
             </p>
