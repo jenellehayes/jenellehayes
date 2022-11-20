@@ -62,7 +62,7 @@ export default function Home() {
                 className="font-medium italic"
               >
                 <strong>photography</strong>
-              </a>
+              </a>{" "}
                too. 
             </p>
           </div>
