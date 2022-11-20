@@ -20,7 +20,7 @@ export default function Home() {
               <span>she/her</span>
             </div>
             <p>
-              Available to take on new projects early January 2023. If you are
+              Available to take on new projects in early January 2023. If you are
               interested in working together, please{" "}
               <a
                 href="mailto:contact@jenellehayes.com"
