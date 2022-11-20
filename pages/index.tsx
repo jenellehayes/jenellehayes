@@ -57,13 +57,7 @@ export default function Home() {
               museum. I care about the environment and am trying to limit my
               impact on it. Formally trained in new media production and design,
               as well as print communications. I&apos;m passionate about{" "}
-              <a
-                href="https://unsplash.com/@bonjourjenelle"
-                className="font-medium italic"
-              >
-                <strong>photography</strong>
-              </a>{" "}
-               too. 
+              <strong>photography</strong> too. 
             </p>
           </div>
         </div>
