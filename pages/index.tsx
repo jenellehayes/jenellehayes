@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Jenelle Hayes - Multidisciplinary Designer</title>
+        <title>Jenelle Hayes - Designer</title>
         <meta
           name="description"
           content="Available to take on new projects early January 2023."
