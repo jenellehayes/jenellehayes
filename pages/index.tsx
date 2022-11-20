@@ -56,9 +56,8 @@ export default function Home() {
               passion and care. Spending time outdoors - exploring nature,
               attending the orchestra, and visiting an art gallery or a museum
               are things I enjoy doing. I care about the environment and am
-              trying to limit my impact on it. My education has me formally
-              trained in new media production and design, as well as print
-              communications.
+              trying to limit my impact on it. I'm formally trained in new media 
+              production and design, as well as print communications.
             </p>
           </div>
         </div>
