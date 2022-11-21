@@ -52,7 +52,7 @@ export default function Home() {
             </p>
             <h2>About</h2>
             <p>
-              Born in <strong>Canada</strong>, I craft out of my homeland with
+              Made in <strong>Canada</strong>, I craft out of my homeland with
               passion and care. Spending time outdoors - exploring nature,
               attending the orchestra, and visiting an art gallery or a museum
               are all things I enjoy doing in my spare time. I care about the 
