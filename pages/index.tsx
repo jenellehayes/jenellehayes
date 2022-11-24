@@ -34,7 +34,7 @@ export default function Home() {
               <h2>Projects I Do</h2>
               <p>
                 Create <strong>visual identities</strong> and{" "}
-                <strong>brand standards</strong>, Build digital and{" "}
+                <strong>brand standards</strong>. Build digital and{" "}
                 <strong>web designs</strong> made with the user experience and
                 best practices in mind. <strong>Print</strong> too! Experience
                 with <strong>editorial</strong> layouts,{" "}
