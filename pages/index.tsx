@@ -28,7 +28,7 @@ export default function Home() {
               >
                 get in touch
               </a>
-              .
+              . Portfolio coming soon!
             </p>
             <div>
               <h2>Projects I Do</h2>
@@ -40,7 +40,7 @@ export default function Home() {
                 with <strong>editorial</strong> layouts,{" "}
                 <strong>adverts</strong>, <strong>signage</strong>, government
                 and legal <strong>textbooks</strong>, and a{" "}
-                <strong>cookbook</strong>. Portfolio coming soon!
+                <strong>cookbook</strong>.
               </p>
             </div>
           </div>
