@@ -40,7 +40,7 @@ export default function Home() {
                 with <strong>editorial</strong> layouts,{" "}
                 <strong>adverts</strong>, <strong>signage</strong>, government
                 and legal <strong>textbooks</strong>, and a{" "}
-                <strong>cookbook</strong>.
+                <strong>cookbook</strong>. Portfolio coming soon!
               </p>
             </div>
           </div>
