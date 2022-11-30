@@ -28,7 +28,7 @@ export default function Home() {
               >
                 get in touch
               </a>
-              . Portfolio coming soon!
+              .
             </p>
             <div>
               <h2>Projects I Do</h2>
@@ -58,7 +58,7 @@ export default function Home() {
               are all things I enjoy doing in my spare time. I care about the 
               environment and am trying to limit my impact on it. Formally 
               trained in new media production and design, as well as 
-              print communications.
+              print communications. Portfolio coming soon!
             </p>
           </div>
         </div>
