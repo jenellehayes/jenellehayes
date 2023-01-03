@@ -7,7 +7,7 @@ export default function Home() {
         <title>Jenelle Hayes — Multidisciplinary Designer</title>
         <meta
           name="description"
-          content="Crafting visual identities and well-thought web designs. Available for new projects in early January 2023."
+          content="Crafting visual identities and well-thought web designs. Available for new projects in mid-January 2023."
         />
       </Head>
       <main className="bg-primary text-white min-h-screen px-4 sm:px-10 py-10 grid place-content-center">
@@ -47,7 +47,7 @@ export default function Home() {
           <div>
             <h2>Work &amp; Projects</h2>
             <p>
-              Nerder, Rundle College, Blakes, Miller Thomson, Calgary
+              Nerder, Rundle College, Blake, Cassels & Graydon LLP, Miller Thomson LLP, Calgary
               Counselling Centre, and the Government of Alberta.
             </p>
             <h2>About</h2>
