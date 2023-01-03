@@ -58,7 +58,7 @@ export default function Home() {
               are all things I enjoy doing in my spare time. I care about the 
               environment and am trying to limit my impact on it. Formally 
               trained in new media production and design, as well as 
-              print communications. Portfolio coming soon!
+              print communications. <em>Portfolio coming soon!</em>
             </p>
           </div>
         </div>
