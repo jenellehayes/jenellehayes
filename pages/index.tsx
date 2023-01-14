@@ -7,7 +7,7 @@ export default function Home() {
         <title>Jenelle Hayes — Multidisciplinary Designer</title>
         <meta
           name="description"
-          content="Crafting visual identities and well-thought web designs. Available for new projects in mid-January 2023."
+          content="Crafting visual identities and well-thought web designs. Available for new projects in early February 2023."
         />
       </Head>
       <main className="bg-primary text-white min-h-screen px-4 sm:px-10 py-10 grid place-content-center">
