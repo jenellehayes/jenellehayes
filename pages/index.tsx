@@ -58,7 +58,7 @@ export default function Home() {
               are all things I enjoy doing in my spare time. I care about the 
               environment and am trying to limit my impact on it. Formally 
               trained in new media production and design, as well as 
-              print communications. <a
+              print communications. <a target=”_blank”
                 href="https://drive.google.com/file/d/1sivzGO4B_5gr6uK23qG3UfiwEuuPLp6r/view"
                 className="font-medium italic"
               ><u>
