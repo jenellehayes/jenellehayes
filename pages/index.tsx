@@ -62,7 +62,7 @@ export default function Home() {
                 href="https://drive.google.com/file/d/1sivzGO4B_5gr6uK23qG3UfiwEuuPLp6r/view"
                 className="font-medium italic"
               ><u>
-              Portfolio coming soon!</u>
+              Portfolio</u> coming soon!
               </a>
             </p>
           </div>
