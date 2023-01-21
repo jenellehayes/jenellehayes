@@ -60,7 +60,7 @@ export default function Home() {
               trained in new media production and design, as well as 
               print communications. <a
                 href="https://drive.google.com/file/d/1sivzGO4B_5gr6uK23qG3UfiwEuuPLp6r/view"
-                className="font-medium italic" target=”_blank"
+                className="font-medium italic"
               ><u>
               Portfolio</u> coming soon!
               </a>
