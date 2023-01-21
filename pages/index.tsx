@@ -61,8 +61,8 @@ export default function Home() {
               print communications. <a
                 href="https://drive.google.com/file/d/1sivzGO4B_5gr6uK23qG3UfiwEuuPLp6r/view"
                 className="font-medium italic"
-              >
-                Portfolio coming soon!
+              ><u>
+              Portfolio coming soon!</u>
               </a>
             </p>
           </div>
