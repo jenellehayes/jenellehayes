@@ -23,7 +23,7 @@ export default function Home() {
               Available to take on new projects mid-March 2023. If you are
               interested in working together, please{" "}
               <a
-                href="mailto:hello@jenellehayes.com"
+                href="mailto:hello@jenellehayes.ca"
                 className="font-medium italic"
               >
                 get in touch
