@@ -38,7 +38,7 @@ standards</strong>. <strong>Digital</strong> designs, including responsive 
 experience</strong> and best practices in mind, such as <strong>SEO</strong> and 
 <strong> information architecture</strong>. Fluent with all <strong>Adobe </strong> 
 products, <strong>Figma</strong>, and I&apos;m currently learning <strong>Webflow</strong>. 
-I&apos;ve developed <strong>social media strategies</strong>, template sets, mood boards, 
+I&apos;ve developed <strong>social media strategies</strong>, template sets, 
 <strong> wireframes</strong>, and <strong>mockups</strong>. Print too! Experience with 
 <strong> editorial</strong> layouts, <strong>adverts</strong>, <strong>signage</strong>, 
 <strong> business cards</strong>, government and legal <strong>textbooks</strong>, and 
