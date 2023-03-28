@@ -52,15 +52,7 @@ export default function Home() {
             </p>
             <h2>About</h2>
             <p>
-              Crafting in my homeland of <strong>Canada</strong> - on traditional and 
-              ancestral territories of Treaty 7 and the Blackfoot Confederacy: Kainai, 
-              Piikani and Siksika, as well as the Tsuu T'ina Nation and Stoney Nakoda 
-              First Nation, where I honour the histories, languages, and cultures of 
-              First Nations, Metis, Inuit, and all First Peoples of Canada - I make 
-              with passion and care. Outside of honing my skills, I enjoy exploring 
-              nature, attending the orchestra, and visiting an art gallery or a museum. 
-              I care about the environment and limit my impact on it. I'm formally 
-              trained in new media production and design, as well as print communications. <a
+              Crafting in my homeland of <strong>Canada</strong> &#45; on traditional and ancestral territories of Treaty 7 and the Blackfoot Confederacy: Kainai, Piikani and Siksika, as well as the Tsuu T'ina Nation and Stoney Nakoda First Nation, where I honour the histories, languages, and cultures of First Nations, Metis, Inuit, and all First Peoples of Canada &#45; I make with passion and care. Outside of honing my skills, I enjoy exploring nature, attending the orchestra, and visiting an art gallery or a museum. I care about the environment and limit my impact on it. I'm formally trained in new media production and design, as well as print communications. <a
                 href="https://drive.google.com/file/d/1sivzGO4B_5gr6uK23qG3UfiwEuuPLp6r/view"
                 className="font-medium italic"
               ><u>
