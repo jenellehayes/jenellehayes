@@ -32,16 +32,9 @@ export default function Home() {
             </p>
             <div>
               <h2>Projects I Do</h2>
-              <p>
-                Create <strong>visual identities</strong> and{" "}
-                <strong>brand standards</strong>. Build digital and{" "}
-                <strong>web designs</strong> made with the user experience and
-                best practices in mind. <strong>Print</strong> too! Experience
-                with <strong>editorial</strong> layouts,{" "}
-                <strong>adverts</strong>, <strong>signage</strong>, government
-                and legal <strong>textbooks</strong>, and a{" "}
-                <strong>cookbook</strong>.
-              </p>
+<p>
+Create <strong>visual identities</strong> and <strong>brand standards</strong>, including <strong>logo design</strong>. Build responsive <strong>web designs</strong> made with <strong>accessibility</strong>, <strong>user experience</strong> and best practices in mind, such as <strong>SEO</strong> and <strong>information architecture</strong>. Fluent with all <strong>Adobe</strong> products, <strong>Figma</strong>, and I'm currently learning <strong>Webflow</strong>. I've developed <strong>social media strategies</strong>, template sets, mood boards, </strong>wireframes</strong>, and <strong>mockups</strong>. Print too! Experience with <strong>business cards</strong>, editorial layouts, adverts, signage, government and legal textbooks, and a cookbook.
+</p>
             </div>
           </div>
           <div>
