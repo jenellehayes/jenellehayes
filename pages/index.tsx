@@ -46,7 +46,7 @@ export default function Home() {
           <div>
             <h2>Work &amp; Projects</h2>
             <p>
-              Nerder, Rundle College, Blake, Cassels &amp; Graydon LLP, Miller Thomson LLP, Calgary
+              Nerder, Miller Thomson LLP, Rundle College, Blake, Cassels &amp; Graydon LLP, Calgary
               Counselling Centre, and the Government of Alberta.
             </p>
             <h2>About</h2>
