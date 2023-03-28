@@ -32,7 +32,8 @@ export default function Home() {
             </p>
             <div>
               <h2>Projects I Do</h2>
-              <p> Create <strong>visual identities</strong> and <strong>brand standards</strong>, 
+              <p>
+                Create <strong>visual identities</strong> and <strong>brand standards</strong>, 
                 including <strong>logo design</strong>. Build responsive <strong>web designs</strong> 
                 made with <strong>accessibility</strong>, <strong>user experience</strong> and best 
                 practices in mind, such as <strong>SEO</strong> and <strong>information architecture</strong>. 
@@ -40,7 +41,8 @@ export default function Home() {
                 learning <strong>Webflow</strong>. I&apos;ve developed <strong>social media strategies</strong>, 
                 template sets, mood boards, </strong>wireframes</strong>, and <strong>mockups</strong>. Print too! 
             Experience with <strong>business cards</strong>, editorial layouts, adverts, signage, government and 
-            legal textbooks, and a cookbook.</p>
+            legal textbooks, and a cookbook.
+            </p>
             </div>
           </div>
           <div>
