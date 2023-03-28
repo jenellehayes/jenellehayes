@@ -33,14 +33,7 @@ export default function Home() {
             <div>
               <h2>Projects I Do</h2>
               <p>
-                Create <strong>visual identities</strong> and <strong>brand standards</strong>, 
-                including <strong>logo design</strong>. Build responsive <strong>web designs</strong> 
-                made with <strong>accessibility</strong>, <strong>user experience</strong> and best 
-                practices in mind, such as <strong>SEO</strong> and <strong>information architecture</strong>. 
-                Fluent with all <strong>Adobe</strong> products, <strong>Figma</strong>, and I&apos;m currently 
-                learning <strong>Webflow</strong>. I&apos;ve developed <strong>social media strategies</strong>, 
-                template sets, mood boards, </strong>wireframes</strong>, and <strong>mockups</strong>. Print too! 
-            Experience with <strong>business cards</strong>, editorial layouts, adverts, signage, government and 
+                Create <strong>visual identities</strong> and <strong>brand standards</strong>, including <strong>logo design</strong>. <strong>Digital</strong> design, including responsive <strong>websites</strong> made with <strong>accessibility</strong>, <strong>user experience</strong> and best practices in mind, such as <strong>SEO</strong> and <strong>information architecture</strong>. Fluent with all <strong>Adobe</strong> products, <strong>Figma</strong>, and I&apos;m currently learning <strong>Webflow</strong>. I&apos;ve developed <strong>social media strategies</strong>, template sets, mood boards, </strong>wireframes</strong>, and <strong>mockups</strong>. Print too! Experience with <strong>business cards</strong>, editorial layouts, adverts, signage, government and 
             legal textbooks, and a cookbook.
             </p>
             </div>
@@ -53,16 +46,8 @@ export default function Home() {
             </p>
             <h2>About</h2>
             <p>
-              Crafting in my homeland of <strong>Canada</strong> &#45; on traditional and ancestral territories 
-              of Treaty 7 and the Blackfoot Confederacy: Kainai, Piikani and Siksika, as well as the Tsuu T&apos;ina 
-              Nation and Stoney Nakoda First Nation, where I honour the histories, languages, and cultures of First 
-              Nations, Metis, Inuit, and all First Peoples of Canada &#45; I make with passion and care. Outside of 
-              honing my skills, I enjoy exploring nature, attending the orchestra, and visiting an art gallery or a 
-              museum. I care about the environment and limit my impact on it. I&apos;m formally trained in new media 
-              production and design, as well as print communications. 
-              <a href="https://drive.google.com/file/d/1sivzGO4B_5gr6uK23qG3UfiwEuuPLp6r/view"
-                className="font-medium italic"><u>
-              Portfolio</u> coming soon!
+              Crafting in my homeland of <strong>Canada</strong> &#45; on traditional and ancestral territories of Treaty 7 and the Blackfoot Confederacy: Kainai, Piikani and Siksika, as well as the Tsuu T&apos;ina Nation and Stoney Nakoda First Nation, where I honour the histories, languages, and cultures of First Nations, Metis, Inuit, and all First Peoples of Canada &#45; I make with passion and care in Calgary, Alberta. Outside of honing my skills, I enjoy exploring nature, attending the orchestra, and visiting an art gallery or a museum. I care about the environment and limit my impact on it. I&apos;m formally trained in new media production and design, as well as print communications. 
+              <a href="https://drive.google.com/file/d/1sivzGO4B_5gr6uK23qG3UfiwEuuPLp6r/view" className="font-medium italic"><u> Portfolio</u> coming soon!
               </a>
             </p>
           </div>
