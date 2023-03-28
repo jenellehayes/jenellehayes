@@ -32,17 +32,7 @@ export default function Home() {
             </p>
             <div>
               <h2>Projects I Do</h2>
-              <p>Create <strong>visual identities</strong> and <strong>brand standards</strong>, 
-              including <strong>logo design</strong>. <strong>Digital</strong> designs, including 
-              responsive <strong>websites</strong> made with <strong>accessibility</strong>, <strong>user 
-              experience</strong> and best practices in mind, such as <strong>SEO</strong> and 
-              <strong>information architecture</strong>. Fluent with all <strong>Adobe</strong> products, 
-              <strong>Figma</strong>, and I&apos;m currently learning <strong>Webflow</strong>. I&apos;ve 
-              developed <strong>social media strategies</strong>, template sets, mood boards, 
-              <strong>wireframes</strong>, and <strong>mockups</strong>. Print too! Experience with 
-              <strong>editorial</strong> layouts, <strong>adverts</strong>, <strong>signage</strong>, 
-              <strong>business cards</strong>, government and legal <strong>textbooks</strong>, and a 
-              <strong>cookbook</strong>.</p>
+              <p>Create <strong>visual identities</strong> and <strong>brand standards</strong>. <strong>Digital</strong> designs, including responsive <strong>websites</strong> made with <strong>accessibility</strong>, <strong>user experience</strong> and best practices in mind, such as <strong>SEO</strong> and <strong>information architecture</strong>. Fluent with all <strong>Adobe</strong> products, <strong>Figma</strong>, and I&apos;m currently learning <strong>Webflow</strong>. I&apos;ve developed <strong>social media strategies</strong>, template sets, mood boards, <strong>wireframes</strong>, and <strong>mockups</strong>. Print too! Experience with <strong>editorial</strong> layouts, <strong>adverts</strong>, <strong>signage</strong>, <strong>business cards</strong>, government and legal <strong>textbooks</strong>, and a <strong>cookbook</strong>.</p>
             </div>
           </div>
           <div>
