@@ -44,8 +44,8 @@ export default function Home() {
                 products, <strong>Figma</strong>, and I&apos;m currently
                 learning <strong>Webflow</strong>. I&apos;ve developed{' '}
                 <strong>social media strategies</strong>, template sets,
-                <strong> wireframes</strong>, and <strong>mockups</strong>
-                . Print too! Experience with
+                <strong> wireframes</strong>, and <strong>mockups</strong>.
+                 Print too! Experience with
                 <strong> editorial</strong> layouts, <strong>adverts</strong>,{' '}
                 <strong>signage</strong>,<strong> business cards</strong>,
                 government and legal <strong>textbooks</strong>, and a 
