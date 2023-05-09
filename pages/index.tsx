@@ -64,8 +64,8 @@ export default function Home() {
             <p>
               Crafting in my homeland of <strong>Canada</strong> &#45; on
               traditional and ancestral territories of Treaty 7 and the
-              Blackfoot Confederacy: Kainai, Piikani and Siksika, as well as the
-              Tsuu T&apos;ina Nation and Stoney Nakoda First Nation, where I
+              Blackfoot Confederacy: Kainai, Piikani and Siksika, the
+              Tsuut&apos;ina Nation and Stoney Nakoda First Nation, where I
               honour the histories, languages, and cultures of First Nations,
               Metis, Inuit, and all First Peoples of Canada &#45; I make with
               passion and care. Outside of honing my skills, I enjoy exploring
