@@ -7,7 +7,7 @@ export default function Home() {
         <title>Jenelle Hayes — Multidisciplinary Designer</title>
         <meta
           name="description"
-          content="Crafting well-thought visual identities and strategically designed websites. Available for new projects in early summer 2023."
+          content="Crafting well-thought visual identities and strategically designed websites. Available for new projects in late autumn 2023."
         />
       </Head>
       <main className="grid min-h-screen px-4 py-10 text-white bg-primary sm:px-10 place-content-center">
@@ -20,7 +20,7 @@ export default function Home() {
               <span>she/her</span>
             </div>
             <p>
-              Available to take on new projects in early summer 2023. If you are
+              Available to take on new projects in late autumn 2023. If you are
               interested in working together, please{' '}
               <a
                 href="mailto:hello@jenellehayes.ca"
