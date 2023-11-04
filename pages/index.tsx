@@ -7,7 +7,7 @@ export default function Home() {
         <title>Jenelle Hayes — Multidisciplinary Designer</title>
         <meta
           name="description"
-          content="Crafting well-thought visual identities and strategically designed websites. Available for new projects in late autumn 2023."
+          content="Crafting well-thought visual identities and strategically designed websites. Available for new projects in mid-winter 2024."
         />
       </Head>
       <main className="grid min-h-screen px-4 py-10 text-white bg-primary sm:px-10 place-content-center">
@@ -20,7 +20,7 @@ export default function Home() {
               <span>she/her</span>
             </div>
             <p>
-              Available to take on new projects in late autumn 2023. If you are
+              Available to take on new projects in mid-winter 2024. If you are
               interested in working together, please{' '}
               <a
                 href="mailto:hello@jenellehayes.ca"
@@ -62,13 +62,13 @@ export default function Home() {
             </p>
             <h2>About</h2>
             <p>
-              Crafting in my homeland of <strong>Canada</strong> &#45; on
+              Crafting from my homeland in <strong>Canada</strong> &#45; on
               traditional and ancestral territories of Treaty 7 and the
               Blackfoot Confederacy: Kainai, Piikani and Siksika, the
-              Tsuut&apos;ina Nation and Stoney Nakoda First Nation, where I
+              Tsuut&apos;ina, and Iyarhe Nakoda First Nation, where I
               honour the histories, languages, and cultures of First Nations,
-              Metis, Inuit, and all First Peoples of Canada &#45; I make with
-              passion and care. Outside of honing my skills, I enjoy exploring
+              M&eacute;tis, Inuit, and all First Peoples of Canada &#45; where I make
+              with passion and care. Outside of honing my skills, I enjoy exploring
               nature, attending the orchestra, and visiting an art gallery or a
               museum. I care about the environment and limit my impact on it.
               I&apos;m formally trained in new media production and design, as
